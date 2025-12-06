@@ -1,0 +1,13 @@
+class Calculator:
+    def __init__(self, num1):
+        self.num1 = num1
+
+    def __add__(self, other):
+        return self.num1 + other.num1
+    def __sub__(self, other):
+        return self.num1 - other.num1
+
+a = Calculator(12)
+b = Calculator(20)
+print(a+b)
+print(a-b)
