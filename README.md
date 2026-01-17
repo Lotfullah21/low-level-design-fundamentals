@@ -1,4 +1,4 @@
-# Low-Level Design Fundamentals 🏗️
+# Low-Level Design Fundamentals
 
 A comprehensive guide to writing clean, scalable, and maintainable code. From programming paradigms to design patterns, this repo covers the essential building blocks every software engineer should know.
 
